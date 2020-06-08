@@ -25,3 +25,5 @@ Results:
 * size of default.jpg isn't homogenous and depends on the resolution and physical size of original, so some links were too big to serve. 
 * Jack suggests grabbing info.json from the manifest to see the available sizes and evaluate their utility.
 * Some images, like the Urbano Monte, are so big they will need to be called as more than one image, perhaps in quarters, with some buffer size to account for features on tile edges. [Is this manual and iterative, or can we define some size parameters that work universally?]
+
+
