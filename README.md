@@ -7,7 +7,7 @@
 ## Initial Exploration
 
 ### Label.box  
-Allows adding online  images through csv of endpoints
+Allows adding online  images through csv of endpoints, so first step is to produce a csv with iiif endpoints appropriate to the task (sizes, regions, etc...)
 
 
 Notes:
